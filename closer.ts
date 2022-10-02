@@ -24,5 +24,4 @@ let globalFunc;
 globalFunc(5); // 15;
 globalFunc(5); // 20;
 globalFunc(5); // 25;
-globalFunc(5); // 25;
 
